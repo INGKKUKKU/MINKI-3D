@@ -2,15 +2,9 @@
 
 우정잉의 오너 캐릭터 **민킈**를 3D로 만든 비공식 팬 창작물입니다.
 
-
-
 https://github.com/user-attachments/assets/4e34e0ca-8b24-4deb-afa9-f31f9a8ac216
 
-
-
-[![민킈 티저](teaser.webp)](https://github.com/INGKKUKKU/MINKI-3D/releases/download/v1.0/minki-teaser.mp4)
-
-▶ 소리가 있는 티저 영상(1080p)은 위 미리보기를 누르면 받을 수 있습니다.
+▶ [1080p 원본 받기](https://github.com/INGKKUKKU/MINKI-3D/releases/download/v1.0/minki-teaser.mp4)
 
 ## 다운로드
 
