@@ -12,7 +12,6 @@ https://github.com/user-attachments/assets/4e34e0ca-8b24-4deb-afa9-f31f9a8ac216
 | --- | --- |
 | `Minki_Blender.zip` | 리그·표정·모발 수정자가 남아 있는 전체 편집 원본 |
 | `Minki_Blender_Optimized.zip` | 다른 엔진으로 옮기기 쉬운 경량 메시 |
-| `minki-teaser.mp4` | 티저 영상 원본 (1080p) |
 
 ## 이용조건
 
