@@ -4,8 +4,6 @@
 
 https://github.com/user-attachments/assets/4e34e0ca-8b24-4deb-afa9-f31f9a8ac216
 
-▶ [1080p 원본 받기](https://github.com/INGKKUKKU/MINKI-3D/releases/download/v1.0/minki-teaser.mp4)
-
 ## 다운로드
 
 [최신 릴리스](https://github.com/INGKKUKKU/MINKI-3D/releases/latest)에서 받을 수 있습니다. 두 파일 모두 Blender 5.2용입니다.
